@@ -1,0 +1,3 @@
+{"Client Company" : "First Mongo Bank", "clearing" : [{"Mongo Exchange" : "BB-21951495"},{"MMX" : "5192150192"}]}
+{"Client Company" : "FMB Intl.", "clearing" : [{"Mongo Exchange" : "DB-18515591"},{"MMX" : "6910258192"}]}
+{"Client Company" : "Fossil Fuel Client", "clearing" : [{"Mongo Exchange" : "GI-28501851"},{"MMX" : 2712539210}]}
